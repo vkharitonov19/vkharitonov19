@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Vladimir Kharitonov
 #### I`m data analyst
-#### Saint Petersburg State University | Business Information Analysis `24
-#### Languages and tools: SQL (MySQL, PostgreSQL), python(pandas, numpy, plotly), R, Matlab
+#### 🏫 Saint Petersburg State University | Business Information Analysis `24
+#### 💻 Languages and tools: SQL (MySQL, PostgreSQL), python(pandas, numpy, plotly), R, Matlab
 <!--
 **vkharitonov19/vkharitonov19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
